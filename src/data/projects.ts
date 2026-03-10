@@ -14,7 +14,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "ai-code-reviewer",
+    title: "Memoona Rashid",
     description: "An intelligent code review tool powered by machine learning that analyzes pull requests and suggests improvements.",
     language: "TypeScript",
     languageColor: "hsl(212, 92%, 67%)",
